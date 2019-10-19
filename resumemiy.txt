@@ -1,0 +1,284 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  .skills{
+    font-size: 25px;
+  }
+  .skill-font{
+    font-size: 100px;
+  }
+  .skill-font-2{
+    font-size: 50px;
+  }
+</style>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Saujanya</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Sourav kumar</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpeg" alt="">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <!--
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>-->
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#awards">Projects</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">Saujanya
+          <span class="text-primary">Nath Tiwari</span>
+        </h1>
+        <div class="subheading mb-5">Electronics and communication Engineering(Class of 2021), BIT Mesra, Ranchi.<br>
+          <a href="mailto:name@email.com">souravkumar110098@gmail.com</a><br>
+          Contact number : +91 9113434913
+        </div>
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/sourav kumar/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a href="https://github.com/sourav1122">
+            <i class="fab fa-github"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+    <!--
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Junior Web Designer</h3>
+            <div class="subheading mb-3">Shout! Media Productions</div>
+            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">July 2010 - December 2011</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Web Design Intern</h3>
+            <div class="subheading mb-3">Shout! Media Productions</div>
+            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2008 - June 2010</span>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+    -->
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Birla Institute of Technology, Mesra</h3>
+            <div class="subheading mb-3">Bachelor of Engineering</div>
+            <div>Electrical and communication Engineering</div>
+            <!--<p>GPA: 8.23</p>-->
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">July2017 - Present</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">St. Xavier's School, Ranchi</h3>
+            <div class="subheading mb-3">Intermediate and Matriculation(CISCE)</div>
+            <!--<p>GPA: 3.56</p>-->
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">April 2004 - May 2017</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="skill-font" >Skills</h2>
+
+        <div class="subheading"><h6 class="skill-font-2">Programming Languages &amp; Tools</h1></div>
+        <ul class="list-inline">
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">Python</p>
+            </li><br>
+            <li class="list-inline-item">
+              <i class="fa-li"></i>
+              <p class="skills">Machine Learning</p>
+            </li><br>
+            <li class="list-inline-item">
+              <i class="fa-li"></i>
+              <p class="skills">Digital Image Processing</p>
+            </li><br>
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">Android</p>
+            </li><br>
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">Linux</p>
+            </li><br>
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">HTML5 | CSS3 | BOOTSTRAP4</p>
+            </li><br>
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">MATLAB</p>
+            </li><br>
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">Computer Networking</p>
+            </li><br>
+            <li class="list-inline-item">
+                <i class="fa-li"></i>
+                <p class="skills">C & C++</p>
+            </li><br>
+            
+          <!--
+          <li class="list-inline-item">
+            <i class="fab fa-js-square"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-angular"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-react"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-node-js"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-sass"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-less"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-wordpress"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-gulp"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-grunt"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-npm"></i>
+          </li>
+          -->
+        </ul>
+        <!--
+        <div class="subheading mb-3"></div>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li"></i>
+            Mobile-First, Responsive Design</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Cross Browser Testing &amp; Debugging</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Cross Functional Teams</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Agile Development &amp; Scrum</li>
+        </ul>
+        -->
+      </div>
+    </section>
+    
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+      <div class="w-100">
+        <h2 class="mb-5">Interests</h2>
+        <p class="skills">My interests include playing Badminton, watching football and cricket.</p>
+        <p class="skills">I also love solving mathematical problems especially related to Calculus.</p>
+      </div>
+    </section>
+    
+    <hr class="m-0">
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+
+</body>
+
+</html>
